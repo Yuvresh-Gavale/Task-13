@@ -2,7 +2,7 @@
 
 html file: https://github.com/Yuvresh-Gavale/Task-13/blob/main/Task-13/index.html
 <br>
-css file:  
+js file:  https://github.com/Yuvresh-Gavale/Task-13/blob/main/Task-13/script.js
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Task-13/edit/main/README.md
 <br>
